@@ -24,8 +24,9 @@ This is my **work account**. I use it for professional projects at **Rated Sol T
 
 - 🛠️ Build backends in **Laravel** and frontends in **React / React Native**
 - ☁️ Handle deployment on **DigitalOcean, AWS EC2, CloudPanel** with **CI/CD pipelines**
-- 🟢 Build **Node.js** APIs and backends, and automate workflows with **n8n**
-- 🤖 Use **Claude Code** and AI tools to build, debug and ship faster across the whole stack
+- 🟢 Build **Node.js** APIs and backends
+- 🔗 Build **AI integrations** and workflow automations with **n8n, Zapier and GoHighLevel (GHL)**
+- 🤖 Use **Claude Code**, **Codex** and other AI tools to build, debug and ship faster across the whole stack
 - 🔀 Ship features through pull requests: reviews, merges and releases on team projects
 - 🧑‍💻 Freelance web application developer (Fiverr & direct clients)
 
@@ -51,6 +52,10 @@ This is my **work account**. I use it for professional projects at **Rated Sol T
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-d97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![AI Integrations](https://img.shields.io/badge/AI_Integrations-8b5cf6?style=flat-square&logo=openai&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-ff4a00?style=flat-square&logo=zapier&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel_(GHL)-22c55e?style=flat-square)
 
 ---
 
