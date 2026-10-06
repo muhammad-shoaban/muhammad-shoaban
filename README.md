@@ -24,7 +24,7 @@ This is my **work account**. I use it for professional projects at **Rated Sol T
 
 - 🛠️ Build backends in **Laravel** and frontends in **React / React Native**
 - ☁️ Handle deployment on **DigitalOcean, AWS EC2, CloudPanel** with **CI/CD pipelines**
-- 🟢 Build **Node.js** APIs and backends
+- 🟢 Build **Node.js / Express** APIs and backends
 - 🔗 Build **AI integrations** and workflow automations with **n8n, Zapier and GoHighLevel (GHL)**
 - 🤖 Use **Claude Code**, **Codex** and other AI tools to build, debug and ship faster across the whole stack
 - 🔀 Ship features through pull requests: reviews, merges and releases on team projects
@@ -38,7 +38,9 @@ This is my **work account**. I use it for professional projects at **Rated Sol T
 ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=flat-square&logo=livewire&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61dafb)
